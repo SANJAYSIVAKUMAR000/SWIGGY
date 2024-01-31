@@ -1,0 +1,382 @@
+@media screen and (max-width:492px) {
+*{
+
+    overflow-x: hidden;
+}
+    .main{
+   
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        height: max-content;
+ 
+    
+    }
+.subdiv{
+ 
+    width: 90%;
+    margin: 1% auto;
+    height: max-content;
+
+  
+}
+.one{
+    width: 100%;
+    height:fit-content;
+  
+
+}
+.two{
+
+    width: 100%;
+    height: 45.5vh;
+}
+
+nav{
+
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+
+
+
+.button a{
+    font-size: 1em;
+    
+}
+.button a:nth-child(2){
+  
+    padding: 3.3%;
+    width: 35%;
+   
+}
+
+
+
+
+.bold{
+    font-size: 2em;
+  
+}
+
+.para{
+    font-size: 1em;
+}
+
+.box{
+    width: 70%;
+
+    font-size: 1em;
+   
+    padding: 1.1%;
+   
+    
+
+}
+
+.srchbox{
+   border: 1px solid gray;
+    height: fit-content;
+    margin: 8% 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.b1{
+    height:fit-content;
+    width: 25%;
+  
+    font-size: .9em;
+}
+.b2{
+    height:6.2vh;
+    font-size: 1em;
+    width: 30%;
+ 
+}
+
+
+.places h3{
+  
+    font-size: 1.2em;
+}
+
+.places span{
+
+    font-weight: bolder;}
+.places{
+    font-size: .8em;
+    width: 100%;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.secondiv{
+
+    height: fit-content;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.secondiv div{
+    color: white;
+    width: 100%;
+    height: fit-content;
+    font-size: 1.5em;
+    margin: 1% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.secondiv div img{
+    width: 150px;
+    height: 250px;
+}
+
+
+.secondiv div span{
+    margin-top: 4%;
+    font-size:larger;
+}
+.secondiv div p{
+    width: 34%;
+    font-size:large;
+    margin-top: 3%;
+    text-align: center;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+.appimg{
+    margin:6% 0;
+}
+
+.appimg img{
+    width: 80px;
+    height: 30px;
+}
+.phoneimg img{
+    height:100%;
+    width: 40%;
+}
+
+
+
+
+.phone{
+    display: flex;
+    height: fit-content;
+    padding: 0 1%;
+    flex-direction: column;
+  
+}
+.phoneimg{
+
+    display: flex;
+    justify-content: start;
+  height:fit-content;
+}
+.phonediv{
+    display: flex;
+   flex-direction: column;
+
+    width:fit-content;
+    height:fit-content;
+    justify-content: start;
+    margin: auto;
+ 
+}
+
+
+.phoneimg{
+
+    display: flex;
+    justify-content: end;
+  height:fit-content;
+}
+
+
+#span1{
+color: rgba(15, 15, 15, 0.894);
+font-size: 2em;
+ 
+}
+
+#span2{
+    font-size: .8em;
+}
+.htag{
+    width: 100%;
+
+}
+
+
+
+
+.sub1{
+    width:inherit;
+    
+}
+
+.sub3,.sub2 {
+    width: 100%;
+}
+.sub3 li{
+    width: 90%;
+    margin: 15px 0;
+
+}
+.sub4 img{
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 135px;
+    height: 60px;
+    }
+
+    .sub4{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 45%;
+    }
+
+.firstsub{
+    border-bottom: .1px dotted rgba(255, 255, 255, 0.524);
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin:auto;
+    height:max-content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.secondsub{
+    width: 150%;
+    flex-direction: column;
+}
+
+
+
+.secondsub .secondsub2
+{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+
+    width: 100%;
+}
+
+
+
+
+
+.thirdsub{
+    border-bottom: .1px dotted rgba(255, 255, 255, 0.524);
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: fit-content;
+
+
+}
+
+.thirdsub ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100%;
+    height: fit-content;
+    margin: 5% 0%;
+    padding: 0% 0;
+
+
+}
+.thirdsub ul li{
+    margin: 2% auto;
+    height:fit-content;
+
+}
+
+.thirdsub ul li:nth-child(1){
+    margin: 2% auto;
+    padding: 0%;
+    width: 55%;
+    font-size: 1em;
+    height: 30%;
+}
+.thirdsub ul li:nth-child(2){
+    margin: 2% auto;
+    padding: 0%;
+    width: 55%;
+    height: 40px;
+}
+.thirdsub ul li:nth-child(3){
+    margin: 0% auto;
+    padding: 0%;
+    width: 55%;
+    height: 100px;
+    
+}
+
+
+.thirdsub ul li .icon{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: start;
+    height: 80px;
+    width:170px;
+
+}
+
+.thirdsub  .copyrights{
+    color: white;
+    font-size:.8em;
+
+}
+}

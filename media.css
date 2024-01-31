@@ -1,0 +1,359 @@
+@media screen and (max-width:1010px) {
+
+    .main{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+   
+ 
+    
+    }
+.subdiv{
+ 
+    width: 90%;
+    margin: 1% auto;
+    height: max-content;
+
+  
+}
+.one{
+    width: 100%;
+    height:fit-content;
+  
+
+}
+.two{
+
+    width: 100%;
+    height: 56.5vh;
+}
+
+nav{
+
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+
+.logo{
+    width: 70%;
+    height: 9vh;
+}
+.button{
+    
+    align-items: center;
+    justify-content:space-evenly;
+    display: flex;
+    width: 50%;
+}
+.button a{
+    font-size: 1.2em;
+
+    
+}
+.button a:nth-child(2){
+  
+    padding: 3.3%;
+    width: 30%;
+   
+}
+
+
+
+
+.bold{
+    font-size: 2em;
+  
+}
+
+.para{
+    font-size: 1.3em;
+}
+
+.box{
+    width: 70%;
+
+    font-size: 1.3em;
+   
+    padding: 1.1%;
+   
+    
+
+}
+
+.srchbox{
+   border: 1px solid gray;  
+    margin: 8% 0;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.b1{
+    height:6.2vh;
+    width: 25%;
+  
+    font-size: 1em;
+}
+.b2{
+    height:6.2vh;
+    font-size: 1em;
+    width: 30%;
+ 
+}
+
+
+.places h3{
+  
+    font-size: 1.2em;
+}
+
+.places span{
+
+    font-weight: bolder;}
+.places{
+    font-size: .8em;
+    width: 100%;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.secondiv{
+
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.secondiv div{
+    color: white;
+    width: 100%;
+    height: fit-content;
+    font-size: 1.5em;
+    margin: 1% auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.secondiv div img{
+    width: 150px;
+    height: 250px;
+}
+
+
+.secondiv div span{
+    margin-top: 4%;
+    font-size:larger;
+}
+.secondiv div p{
+    width: 34%;
+    font-size:large;
+    margin-top: 3%;
+    text-align: center;
+}
+ 
+
+
+
+
+
+
+
+
+
+
+.appimg{
+    margin:6% 0;
+}
+
+.appimg img{
+    width: 80px;
+    height: 40px;
+}
+.phoneimg img{
+    height:max-content;
+    width: 40%;
+}
+
+
+.phone{
+    width:fit-content;
+    height: fit-content;
+
+   
+}
+
+.phoneimg{
+
+    display: flex;
+
+}
+
+
+#span1{
+color: rgba(15, 15, 15, 0.894);
+font-size: 2em;
+ 
+}
+
+#span2{
+    font-size: 1em;
+}
+.htag{
+    width: 89%;
+
+}
+
+
+
+
+
+.sub1,.sub2,.sub3,.sub4{
+    width:fit-content;
+}
+
+
+
+
+.sub4 img{
+    border: 1px solid white;
+    border-radius: 15px;
+    width: 135px;
+    height: 60px;
+    }
+
+    .sub4{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 35%;
+    }
+
+.firstsub{
+    border-bottom: .1px dotted rgba(255, 255, 255, 0.524);
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin:auto;
+    height:max-content;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.secondsub{
+    width: 80%;
+    flex-direction: column;
+}
+
+
+
+.secondsub .secondsub2
+{
+    display: flex;
+    justify-content: start;
+    align-items: start;
+
+    width: 50%;
+}
+
+
+
+
+
+.thirdsub{
+    border-bottom: .1px dotted rgba(255, 255, 255, 0.524);
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    width: 80%;
+
+
+}
+
+.thirdsub ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin: 2.5% 0%;
+    padding: 0% 0;
+
+
+}
+
+
+.thirdsub ul li:nth-child(1){
+    margin:0% 3.2%;
+    width: 29%;
+}
+.thirdsub ul li:nth-child(2){
+
+    width: 25%;
+}
+.thirdsub ul li:nth-child(3){
+  
+    width: 25%;
+}
+
+
+.thirdsub ul li .icon{
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.thirdsub  .copyrights{
+    color: white;
+    font-size:1em;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
