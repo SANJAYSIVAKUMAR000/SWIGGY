@@ -100,18 +100,17 @@ nav{
 }
 
 .srchbox{
-   border: 1px solid gray;
-    height: 50px;
+    border: 1px solid gray;
+    height: 5.7vh;
     margin: 6% 0;
     display: flex;
     align-items: center;
     flex-direction: row;
 }
 .b1{
-    height:6.9vh;
+    height:5.6vh;
     width: 16%;
     border: none;
-
     background-color: transparent;
     font-size: 1em;
 }
