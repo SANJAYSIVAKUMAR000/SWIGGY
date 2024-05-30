@@ -65,14 +65,9 @@ nav{
 }
 
 .box{
-    width: 70%;
-
+    width: 85%;
     font-size: 1em;
-   
     padding: 1.1%;
-   
-    
-
 }
 
 .srchbox{
@@ -86,19 +81,16 @@ nav{
 .b1{
     height:fit-content;
     width: 25%;
-  
-    font-size: .9em;
+    font-size: .65em;
 }
 .b2{
-    height:6.2vh;
-    font-size: 1em;
+
+    font-size: .67em;
     width: 30%;
- 
-}
+ }
 
 
 .places h3{
-  
     font-size: 1.2em;
 }
 
@@ -210,8 +202,7 @@ nav{
 }
 .phonediv{
     display: flex;
-   flex-direction: column;
-
+    flex-direction: row;
     width:fit-content;
     height:fit-content;
     justify-content: start;
@@ -223,8 +214,8 @@ nav{
 .phoneimg{
 
     display: flex;
-    justify-content: end;
-  height:fit-content;
+    justify-content: center;
+    height:fit-content;
 }
 
 
